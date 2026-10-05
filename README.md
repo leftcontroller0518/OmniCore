@@ -1,0 +1,2 @@
+# OmniCore
+Minecraftサーバー用プラグイン
